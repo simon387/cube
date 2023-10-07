@@ -43,3 +43,11 @@ per L'ANGOLO GIUSTO (U gira la gialla, angolo "giusto a sx, "sbagliato" a dx)
 ```
 R  U' L' U  R' U' L  U
 ```
+
+per chiudere
+
+```
+R  U  R' U'
+```
+
+
