@@ -50,4 +50,5 @@ per chiudere
 R  U  R' U'
 ```
 
+da applicare in maniera particolare, ancora non capito, unico video di yt che funziona: https://www.youtube.com/watch?v=ldrcaBgC-UA
 
