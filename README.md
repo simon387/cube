@@ -12,13 +12,13 @@ R  U  R' U'
 
 ## secondo strato
 
-<-
+<- sinistra
 
 ```
 U' L' U  L  U  F  U' F'
 ```
 
-->
+-> destra
 
 ```
  U  R  U' R' U' F' U  F
