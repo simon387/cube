@@ -28,11 +28,15 @@ U' L' U  L  U  F  U' F'
 
 per la croce
 
-```F  R  U  R' U' F'```
+```
+F  R  U  R' U' F'
+```
 
 per gli spigoli (U gira la gialla)
 
-```R  U  R' U  R  U2  R'```
+```
+R  U  R' U  R  U2  R'
+```
 
 per L'ANGOLO GIUSTO (U gira la gialla, angolo "giusto a sx, "sbagliato" a dx)
 
