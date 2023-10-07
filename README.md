@@ -4,12 +4,25 @@ L IN GIU'
 
 ## primo strato
 
-```   R  U  R' U'```
+mettere il giusto sotto e fare l'algoritmo NON dalla faccia bianca
+
+```
+R  U  R' U'
+```
 
 ## secondo strato
 
-```<- U' L' U  L  U  F  U' F'```
-```-> U  R  U' R' U' F' U  F```
+<-
+
+```
+U' L' U  L  U  F  U' F'
+```
+
+->
+
+```
+ U  R  U' R' U' F' U  F
+```
 
 ## terzo strato
 
