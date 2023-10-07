@@ -34,7 +34,7 @@ per gli spigoli (U gira la gialla)
 
 ```R  U  R' U  R  U2  R'```
 
-per L'ANGOLO GIUSTO
+per L'ANGOLO GIUSTO (U gira la gialla, angolo "giusto a sx, "sbagliato" a dx)
 
 ```
 R  U' L' U  R' U' L  U
