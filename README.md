@@ -30,7 +30,7 @@ per la croce
 
 ```F  R  U  R' U' F'```
 
-per gli spigoli
+per gli spigoli (U gira la gialla)
 
 ```R  U  R' U  R  U2  R'```
 
