@@ -46,7 +46,7 @@ R  U' L' U  R' U' L  U
 
 per chiudere
 
-https://youtu.be/Ks6W0t2VKkU?t=736
+https://youtu.be/Ks6W0t2VKkU?t=833
 
 ```
 R  U  R' U'
