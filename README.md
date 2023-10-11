@@ -1,6 +1,8 @@
 # cube
 
-L IN GIU'
+## notation
+
+TODO, solo L R U F
 
 ## primo strato
 
@@ -35,6 +37,12 @@ F  R  U  R' U' F'
 per gli spigoli (U gira la gialla)
 
 ```
+010 010 010
+000 001 101
+010 000 010
+```
+
+```
 R  U  R' U  R  U2  R'
 ```
 
@@ -44,10 +52,8 @@ per L'ANGOLO GIUSTO (U gira la gialla, angolo "giusto a sx, "sbagliato" a dx)
 R  U' L' U  R' U' L  U
 ```
 
-per chiudere
+per chiudere (GIALLA SEMPRE GIU')
 
 ```
 R  U  R' U'
 ```
-
-GIALLA SEMPRE GIU'
