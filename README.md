@@ -2,7 +2,7 @@
 
 ## notation
 
-TODO, solo L R U F
+TODO, only L R U F
 
 ## primo strato
 
@@ -57,3 +57,12 @@ per chiudere (GIALLA SEMPRE GIU')
 ```
 R  U  R' U'
 ```
+
+## 2x2x2
+
+TODO
+
++ sexy move per la faccia bianca
++ sexy move per la faccia gialla
++ xperm modificato per finire
+
