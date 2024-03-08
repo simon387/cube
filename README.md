@@ -63,6 +63,10 @@ R  U  R' U'
 TODO
 
 + sexy move per la faccia bianca
-+ sexy move per la faccia gialla
-+ xperm modificato per finire
-
++ avere solo uno giusto
++ metterlo su a sx
++ algoritmo:
+  + R U' L' U R' U' L U ------------------------------ (L e' giu')
++ e ripetere finche' tutti in posizione giusta
++ faccia bianca in alto
++ sexi move sminchiando
