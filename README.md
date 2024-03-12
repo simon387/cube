@@ -69,4 +69,4 @@ TODO sequenza, specie algoritmo non perfetti
   + R U' L' U R' U' L U ------------------------------ (L e' giu')
 + e ripetere finche' tutti in posizione giusta
 + faccia bianca in alto
-+ sexi move sminchiando
++ sexy move sminchiando
