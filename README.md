@@ -60,7 +60,6 @@ R  U  R' U'
 
 ## 2x2x2
 
-TODO sequenza, specie algoritmo non perfetti
 
 + sexy move per la faccia bianca
 + avere solo uno giusto
