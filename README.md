@@ -65,7 +65,7 @@ R  U  R' U'
 + avere solo uno giusto
 + metterlo su a sx
 + algoritmo:
-  + ```R U' L' U R' U' L U ------------------------------```
+  + ```R U' L' U R' U' L U```
 + e ripetere finche' tutti in posizione giusta
 + faccia bianca in alto
 + sexy move sminchiando
