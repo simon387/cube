@@ -69,3 +69,10 @@ R  U  R' U'
 + e ripetere finche' tutti in posizione giusta
 + faccia bianca in alto
 + sexy move sminchiando
+
+##3x3x3 CFOP
+
+### croce
+
+### F2L
+
